@@ -12,5 +12,11 @@ public class Class1Demo {
 		// code for adding
 	}
 	
+	public void paymentverification() {
+		
+		// code by dev one --- added tests for payment validations
+	}
+	
+	
 
 }

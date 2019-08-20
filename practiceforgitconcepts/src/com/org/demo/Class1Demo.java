@@ -7,5 +7,10 @@ public class Class1Demo {
 		
 		// code by manager - created new project for team
 	}
+	
+	public void add() {
+		// code for adding
+	}
+	
 
 }
